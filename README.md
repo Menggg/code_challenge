@@ -1,6 +1,6 @@
 Code_challenge
 ----
-Code was written by R
+This program was written by R
 
 Please install package "stringr" before running
 ```
@@ -19,6 +19,6 @@ Output: annotated VCF file with "TYPE","DP/AO/r_AO" and "info_ExAC"
 
 "TYPE" is type of variants
 
-"DP/AO/r_AO" is deep of reads, variants reads and percentage of variants reads V.S. reference reads 
+"DP/AO/r_AO" is deepth of reads, variants reads and percentage of variants reads V.S. reference reads 
 
 "info_ExAC" is allele frequence, Gene ID and Existing variation ID from ExAC
